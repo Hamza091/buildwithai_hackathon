@@ -1,0 +1,411 @@
+[
+{
+    "event": {
+        "name": "BOGGS: 8 Hour Mountain Bike Race",
+        "location": "Boggs Demonstration State Forest, Cobb, California",
+        "date": "May 3, 2025, 8:00:00 AM PDT",
+        "host": "Bike Monkey",
+        "host_base_location": "Cobb, California",
+        "attributes": "8+ hour MTB race, endurance relay, camping opportunity, Funduro elements, anniversary edition"
+    },
+    "classification": {
+        "type": "relay race",
+        "surface": "MTB (mountain bike)"
+    },
+    "registration": {
+        "link": "https://www.bikemonkey.net/register",
+        "url": "https://www.bikemonkey.net/boggs8hour"
+    },
+    "routes": [
+        {
+        "name": "8-Hour Course",
+        "length": "9.9 miles",
+        "map_trace": null,
+        "elevation": "1157 ft",
+        "elevation_profile": "Figure-8 loop with mid-race status check and no additional climbing"
+        },
+        {
+        "name": "Hill Climb Course",
+        "length": "4 miles",
+        "map_trace": null,
+        "elevation": "1089 ft",
+        "elevation_profile": "Begins at Road 100, features pitches up to 16%, ends on Mac's and Karen's Trail"
+        }
+    ]
+},
+{
+    "event": {
+      "name": "Tuesday Night Twilights",
+      "location": "Sonoma County Fairgrounds, Santa Rosa, CA",
+      "date": "April - September 2024",
+      "host": "RedPeloton",
+      "host_base_location": "Santa Rosa, CA",
+      "attributes": "No license required. Races are weather-dependent; cancelled in case of rain."
+    },
+    "classification": {
+      "type": "race",
+      "surface": "road"
+    },
+    "registration": {
+      "link": "https://bikemonkey.net",
+      "url": "https://bikemonkey.net/tnt"
+    },
+    "routes": [
+      {
+        "name": "C Race/Junior Race/Women's Race",
+        "length": "30 min",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "B Race",
+        "length": "35 min",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "A/Elite Race",
+        "length": "45 min",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Heart of Gold Gravel",
+      "location": "Nevada City, California",
+      "date": "October 5, 2024, 8:00:00 AM PDT",
+      "host": "Bike Monkey",
+      "host_base_location": "Nevada County",
+      "attributes": "Charitable event supporting teen mental wellness"
+    },
+    "classification": {
+      "type": "Gravel Race",
+      "surface": "Gravel"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net/register",
+      "url": "https://www.bikemonkey.net/events/heart-of-gold-gravel"
+    },
+    "routes": [
+      {
+        "name": "Long Route",
+        "length": "70 miles",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Medium Route",
+        "length": "36 miles",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Levi Leipheimer's King Ridge GranFondo Bike Ride",
+      "location": "Windsor, California",
+      "date": "April 19, 2025",
+      "host": "Levi Leipheimer",
+      "host_base_location": "Sonoma County, California",
+      "attributes": "Competitive, Scenic Routes, Family-Friendly Options"
+    },
+    "classification": {
+      "type": "Gran Fondo",
+      "surface": "Road"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net/register",
+      "url": "https://www.bikemonkey.net/levisgranfondo"
+    },
+    "routes": [
+      {
+        "name": "Family Fondo",
+        "length": "N/A",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Piccolino",
+        "length": "22 miles",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Piccolo",
+        "length": "40 miles",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Medio",
+        "length": "N/A",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Geysers",
+        "length": "81 miles",
+        "map_trace": null,
+        "elevation": "6,000'",
+        "elevation_profile": null
+      },
+      {
+        "name": "Gran",
+        "length": "N/A",
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "The Growler",
+        "length": "135 miles",
+        "map_trace": null,
+        "elevation": "10,000'+",
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "WENTE 8-Hour MTB Relay Race",
+      "location": "Willits, CA",
+      "date": "May 31, 2025, 8:00:00 AM PDT",
+      "host": "Bike Monkey",
+      "host_base_location": "Willits, California",
+      "attributes": "An 8-hour mountain bike relay race and family camping extravaganza. Limited to 550 competitors with a focus on family-friendly activities and scouting."
+    },
+    "classification": {
+      "type": "Race",
+      "surface": "MTB"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net/register",
+      "url": "https://www.bikemonkey.net/wente"
+    },
+    "routes": [
+      {
+        "name": "Wente MTB Race Course",
+        "length": "8.3 miles",
+        "map_trace": null,
+        "elevation": "1,100'",
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Rebecca's Private Idaho",
+      "location": "Sun Valley, Idaho",
+      "date": "August 28 - August 31, 2025",
+      "host": "Rebecca Rusch",
+      "host_base_location": "Sun Valley, Idaho",
+      "attributes": "A multi-day gravel biking event featuring a variety of stages and charitable goals."
+    },
+    "classification": {
+      "type": "Gravel Race",
+      "surface": "Gravel"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net/rebeccas-private-idaho",
+      "url": "https://www.bikemonkey.net/rebeccas-private-idaho"
+    },
+    "routes": [
+      {
+        "name": "Harriman Trail",
+        "length": "35 Mi",
+        "map_trace": "HARRIMAN STRAVA | GPX",
+        "elevation": "3,505'",
+        "elevation_profile": null
+      },
+      {
+        "name": "Dollarhide Summit",
+        "length": "50 Mi",
+        "map_trace": "DOLLARHIDE STRAVA | GPX",
+        "elevation": "3,057'",
+        "elevation_profile": null
+      },
+      {
+        "name": "Tater Tot",
+        "length": "18.9 Mi",
+        "map_trace": "STRAVA | GPX",
+        "elevation": "1,255'",
+        "elevation_profile": null
+      },
+      {
+        "name": "French Fry",
+        "length": "56 Mi",
+        "map_trace": "STRAVA | GPX",
+        "elevation": "3,716'",
+        "elevation_profile": null
+      },
+      {
+        "name": "Baked Potato",
+        "length": "102.9 Mi",
+        "map_trace": "STRAVA | GPX",
+        "elevation": "6,228'",
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Fish Rock",
+      "location": "Boonville, CA",
+      "date": "March 29, 2025",
+      "host": "Bike Monkey",
+      "host_base_location": null,
+      "attributes": "Super tough mixed road and gravel race"
+    },
+    "classification": {
+      "type": "mixed terrain race",
+      "surface": "road and gravel"
+    },
+    "registration": {
+      "link": "https://bikemonkey.net/register",
+      "url": "https://bikemonkey.net/fish-rock"
+    },
+    "routes": [
+      {
+        "name": "Fish Rock Route",
+        "length": "70 miles",
+        "map_trace": null,
+        "elevation": "10,507 feet",
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Stetina's Carson City Paydirt",
+      "location": "Carson City, Nevada",
+      "date": "May 17, 2025",
+      "host": "Bike Monkey",
+      "host_base_location": null,
+      "attributes": "Gravel race with timed segments, festival, and unique challenges."
+    },
+    "classification": {
+      "type": "Gravel Race",
+      "surface": "Gravel"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net",
+      "url": "https://www.bikemonkey.net/stetinas-paydirt"
+    },
+    "routes": [
+      {
+        "name": "Long Course",
+        "length": "69.2 Miles",
+        "map_trace": [
+          "https://www.strava.com/routes/long_course",
+          "https://ridewithgps.com/routes/long_course"
+        ],
+        "elevation": "4,852 Feet",
+        "elevation_profile": null
+      },
+      {
+        "name": "Medium Course",
+        "length": "56.5 Miles",
+        "map_trace": [
+          "https://www.strava.com/routes/medium_course"
+        ],
+        "elevation": "3,561 Feet",
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "BOVINE CLASSIC",
+      "location": "Atascadero, CA",
+      "date": "October 25, 2025, 8:30:00 AM PDT",
+      "host": "Bike Monkey & Locomotiv Coaching",
+      "host_base_location": "Atascadero & Paso Robles, CA",
+      "attributes": "Gravel ride, timed segments, awards, world-class wine country, charity partner."
+    },
+    "classification": {
+      "type": "Gravel ride",
+      "surface": "Mixed-surface (gravel and tarmac)"
+    },
+    "registration": {
+      "link": "https://www.bikemonkey.net/events/bovine-classic",
+      "url": "https://www.bikemonkey.net/events/bovine-classic"
+    },
+    "routes": [
+      {
+        "name": "The Big Bovine",
+        "length": null,
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "The Feisty Bovine",
+        "length": null,
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "The Happy Bovine",
+        "length": null,
+        "map_trace": null,
+        "elevation": null,
+        "elevation_profile": null
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "Truckee Tahoe Gravel",
+      "location": "Truckee, California",
+      "date": "June 28, 2025",
+      "host": "Bike Monkey",
+      "host_base_location": null,
+      "attributes": "Mixed-terrain mountain adventure, gravel, dirt roads, some pavement, single track"
+    },
+    "classification": {
+      "type": "race",
+      "surface": "gravel"
+    },
+    "registration": {
+      "link": "REGISTER",
+      "url": null
+    },
+    "routes": [
+      {
+        "name": "Long",
+        "length": "100+ miles",
+        "map_trace": "DOWNLOAD GPX",
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Medium",
+        "length": "Variable",
+        "map_trace": "DOWNLOAD GPX",
+        "elevation": null,
+        "elevation_profile": null
+      },
+      {
+        "name": "Short",
+        "length": "Variable",
+        "map_trace": "DOWNLOAD GPX",
+        "elevation": null,
+        "elevation_profile": null
+      }
+    ]
+  }
+  
+]
